@@ -1,4 +1,6 @@
 # ros_research
+## Install instructions
+https://docs.ros.org/en/crystal/Installation/macOS-Install-Binary.html
 
 ## Notes
 - Using 'Zed' text editor
@@ -6,7 +8,7 @@
 - github email = mmcnally629@gmail.com
 
 ## Dependencies
-- (homebrew)[https://brew.sh/]
+- [homebrew](https://brew.sh/)
 - Python3
     - brew install python3
 - dependencies for Fast-RTPS

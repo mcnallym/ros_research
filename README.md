@@ -1,5 +1,6 @@
 # ros_research
-## ROUND 2 - [Multipass](https://canonical.com/blog/ros-development-on-linux-windows-and-macos)
+## SETUP
+### [Multipass](https://canonical.com/blog/ros-development-on-linux-windows-and-macos)
 - brew install multipass
 - multipass launch ros2-humble --name humble-vm --mount ~/Documents/Work/Reliabotics/ros_research:./ros_research
 - multipass shell humble-vm

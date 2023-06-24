@@ -13,11 +13,6 @@
 ## Tutorials
 https://docs.ros.org/en/humble/Tutorials.html
 
-## General Notes
-- Using 'Zed' text editor
-- github user = mcnallym
-- github email = mmcnally629@gmail.com
-
 ## ROS Notes
 ### Nodes
 Each node in ROS should be responsible for a single, modular purpose. Each node can send and receive data from other nodes via topics, services, actions, or parameters.

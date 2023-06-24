@@ -59,7 +59,7 @@ Topics act as a bus for nodes to exchange messages. A node may publish data to a
 - Returns what structure of data the message expects.
 
 #### PUB
-> ros2 topic pub <topic_name> <msg_type> '<args>'
+> ros2 topic pub <topic_name> <msg_type> <args>
 - Publish data onto a topic directly from the command line.
 The '<args>' argument is the actual data you’ll pass to the topic, in the structure you just discovered in the previous section.
 It’s important to note that this argument needs to be input in YAML syntax.
@@ -67,6 +67,7 @@ It’s important to note that this argument needs to be input in YAML syntax.
 > --once is an optional argument meaning “publish one message then exit”.
 >
 > --rate <frequency>
+
 
 #### HZ
 > ros2 topic hz <topic_name>
